@@ -1,1 +1,1 @@
-# css-art
+Beach Sunset CSS Art. Built by following the Coding Artist' [YouTube video](https://www.youtube.com/watch?v=2k8b5kYEXvo).
